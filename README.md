@@ -20,3 +20,11 @@ https://www.videolan.org/
 https://github.com/davidwernhart/AlDente-Charge-Limiter
 
 https://github.com/th-ch/youtube-music
+
+http://freemacsoft.net/appcleaner/
+
+https://iina.io/ // https://github.com/iina/iina
+
+https://rectangleapp.com/
+
+https://titanium-software.fr/en/onyx.html
